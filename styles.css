@@ -1,0 +1,19 @@
+body{
+  background: #EEE ;
+  letter-spacing: 0.2rem;
+  font-size: 0.8rem;
+}
+h1,
+label{
+  color: #999;
+}
+.container{
+  width: 400px;
+}
+.icon{
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
